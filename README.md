@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/cypress/17202C" height="40" alt="cypress logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/playwright/2EAD33" height="40" alt="playwright logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/robotframework/00C0B5" height="40" alt="robot framework logo"  />
   <img width="12" />
